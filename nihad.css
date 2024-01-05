@@ -1,0 +1,35 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nihad{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+.prim{
+    color: #ff0202;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+}
+.button{
+    border-radius: 5px;
+    background: #ff0202;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
