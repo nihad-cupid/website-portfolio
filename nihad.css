@@ -85,3 +85,8 @@ main{
     text-align: center;
     font-size: 18px;
 }
+.about-info-con{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
